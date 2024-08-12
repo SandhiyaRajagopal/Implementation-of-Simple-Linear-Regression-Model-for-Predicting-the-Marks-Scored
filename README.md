@@ -17,7 +17,6 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```
-/*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: SANDHIYA R
 RegisterNumber:  212223240146
@@ -50,7 +49,6 @@ m=lr.coef_
 m[0]
 b=lr.intercept_
 b
-*/
 ```
 
 ## Output:
