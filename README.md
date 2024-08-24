@@ -15,6 +15,8 @@ To write a program to predict the marks scored by a student using the simple lin
 5. Predict the regression for marks by using the representation of the graph.
 6. Compare the graphs and hence we obtained the linear regression for the given datas.
 
+
+
 ## Program:
 ```
 Program to implement the simple linear regression model for predicting the marks scored.
@@ -59,6 +61,7 @@ rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 
 ```
+
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/385591fc-bd1c-43fb-b09a-4d54f42971fc)
